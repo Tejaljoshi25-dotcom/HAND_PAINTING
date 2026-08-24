@@ -2,7 +2,6 @@
 
 **Paint in the Air with Just Your Hand! No Mouse, No Keyboard, Pure Magic! ✨**
 
----
 
 ## 🌟 Overview
 
@@ -14,7 +13,7 @@ Tired of traditional drawing tools? **AI Hand Painter** transforms your standard
 - ✅ **Smart Eraser:** Pinch gesture instantly switches to eraser mode.
 - ✅ **Neon Aesthetics:** Beautiful glowing lines with auto-cycling colors.
 
----
+
 
 ## ️ Tech Stack
 
